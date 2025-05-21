@@ -4,7 +4,7 @@ An Excel-based dashboard that simulates subscriber and revenue data for a fictio
 
 ## 📁 Files
 
-- `Mock_Subscriber_Data_With_Updated_KPIs.xlsx`: Main file with mock subscriber data, KPIs, PivotTables, slicers, and dashboard visuals.
+- `Mock_Subscriber_Data_With_KPIs.xlsx`: Main file with mock subscriber data, KPIs, PivotTables, slicers, and dashboard visuals.
 - `Revenue_vs_Subscriber_Growth_ComboChart.png`: Combo chart showing monthly revenue and subscriber growth trends.
 
 ## 📌 Features
